@@ -1,0 +1,5 @@
+numpy==1.18.5
+streamlit==1.17.0
+presidio_analyzer==2.2.31
+presidio_anonymizer==2.2.31
+pandas==1.1.5
