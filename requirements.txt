@@ -1,6 +1,6 @@
 numpy==1.18.5
 streamlit==1.17.0
-presidio_analyzer==2.2.31
-presidio_anonymizer==2.2.31
+presidio_analyzer==2.2.24
+presidio_anonymizer==2.2.24
 pandas==1.1.5
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
